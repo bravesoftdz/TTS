@@ -6,3 +6,7 @@ A simple example of using a library that translates text into speech (a systemic
 # Used libraries
 1. marytts.client.MaryClient.Voice;
 2. java.util.Scanner;
+
+
+!!! You can download additional libraries by URL https://goo.gl/NKZQLq.
+This libraries add in your application (Add JARs).
